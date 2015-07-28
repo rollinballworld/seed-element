@@ -1,4 +1,4 @@
-# seed-element
+# seed-element -- test1
 
 An element providing a starting point for your own reusable Polymer elements.
 
